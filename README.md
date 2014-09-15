@@ -31,7 +31,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.19) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.30) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -85,7 +85,7 @@ Search for [Emoji emoticons](http://en.wikipedia.org/wiki/Emoji) used by Basecam
 
 ![Emoji Workflow](https://cloud.githubusercontent.com/assets/398893/3528965/ac1a574c-0794-11e4-9d02-f7f39c7b4fac.png)
 
-### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.6) ~ [Download](http://zno.io/RcCX)
+### [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) (1.8) ~ [Download](http://zno.io/RcCX)
 
 Transform query strings through base64, html, url, and utf-8 encode/decode ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -161,7 +161,7 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 ![StackOverflow Workflow](https://cloud.githubusercontent.com/assets/398893/3528942/44456e0e-0794-11e4-9473-9c9796d2dbec.png)
 
-### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/) (1.61) ~ [Download](http://zno.io/Rce5)
+### [TimeZones](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v17/) (1.7) ~ [Download](http://zno.io/Rce5)
 
 Get an instant list of the current time in various cities around the world ~ *by [@CarlosNZ](http://www.alfredforum.com/topic/491-timezones-a-world-clock-script-filter-updated-to-v161/).*
 
