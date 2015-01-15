@@ -31,7 +31,7 @@ Open current Finder window in Terminal/iTerm and vice versa ~ *by [@LeEnno](http
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528744/7f119730-0792-11e4-9450-c30a1ac229be.png)
 ![Terminal → Finder](https://cloud.githubusercontent.com/assets/398893/3528751/912d8be0-0792-11e4-86f8-aa1e62ddece7.png)
 
-### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.30) ~ [Download](http://zno.io/RcdI)
+### [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v1.42) ~ [Download](http://zno.io/RcdI)
 
 Quick package/plugin/component lookup for your favorite package managers ~ *by [@willfarrell](https://github.com/willfarrell/).*
 
@@ -49,7 +49,7 @@ Search for browser compatibility support of HTML5, CSS3 and more using [caniuse.
 
 ![Can I Use Workflow](https://cloud.githubusercontent.com/assets/398893/3528822/2575b9f8-0793-11e4-843a-a196fd292b15.png)
 
-### [Colors](https://github.com/TylerEich/Alfred-Extras/tree/master/Source/colors) (1.41) ~ [Download](http://zno.io/RcFz)
+### [Colors](http://www.packal.org/workflow/colors) (2.0) ~ [Download](http://zno.io/RcFz)
 
 Convert HEX/RGB/HSL colors ~ *by [@TylerEich](https://github.com/TylerEich/).*
 
@@ -129,7 +129,7 @@ P.S.: Source Tree is a free external application, make sure to [download](http:/
 
 Looking for another Git client? See [Extra wiki](https://github.com/zenorocha/alfred-workflows/wiki/Extras#git-client).
 
-### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.0) ~ [Download](http://zno.io/RcI1)
+### [iOS Simulator](http://www.alfredforum.com/topic/2126-launch-ios-simulator/) (1.1) ~ [Download](http://zno.io/RcI1)
 
 Launch iOS Simulator without launching Xcode ~ *by [@maloninc](http://www.alfredforum.com/topic/2126-launch-ios-simulator/).*
 
